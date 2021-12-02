@@ -1,4 +1,4 @@
 {"type":"Topology",
 "arcs":[[[8,2662],[-8,59],[53,109],[74,37],[86,19],[19,-26],[-28,-67],[-34,-62],[-36,-37],[-126,-32]],[[1315,11384],[219,-13],[188,-362],[-164,-30],[-90,-11],[9,40],[-2,54],[-9,37],[-27,16],[-43,65],[0,27],[-27,22],[-22,29],[-26,56],[-6,70]],[[921,216],[113,-61],[6,-97],[1,-58],[-49,26],[-41,10],[-8,-19],[-30,10],[7,23],[-27,19],[-62,5],[-10,34],[100,108]]],
 "transform":{"scale":[0.00034809544797619643,0.00028952904629344907],"translate":[-9.173568445142477,37.9295217226296]},
-"objects":{"DrilldownChrolepth_Region":{"type":"MultiPolygon","geometries":[{"arcs":[[0]],"type":"Polygon","properties":{"id":1,"Nome":"Lisboa"}},{"arcs":[[1]],"type":"Polygon","properties":{"id":2,"Nome":"Douro"}},{"arcs":[[2]],"type":"Polygon","properties":{"id":3,"Nome":"Sines"}}]}}}
+"objects":{"DrilldownChrolepth_Region":{"type":"GeometryCollection","geometries":[{"arcs":[[0]],"type":"MultiPolygon","properties":{"id":1,"Nome":"Lisboa"}},{"arcs":[[1]],"type":"MultiPolygon","properties":{"id":2,"Nome":"Douro"}},{"arcs":[[2]],"type":"MultiPolygon","properties":{"id":3,"Nome":"Sines"}}]}}}
