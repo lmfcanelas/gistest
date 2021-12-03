@@ -1,0 +1,11 @@
+{"type":"Topology",
+"arcs":[[[0,3551],[3,47],[112,18],[2,-44],[-112,-25],[-5,4]],[[213,3633],[-15,45],[58,54],[26,-20],[-54,-80],[-15,1]],[[298,3743],[-25,17],[39,46],[14,-8],[-28,-55]],[[2072,15121],[104,4],[48,-152],[-68,-15],[-68,80],[-27,54],[11,29]],[[2188,14923],[92,20],[67,-135],[-63,-29],[-82,83],[-14,61]],[[2281,14745],[90,0],[16,-118],[-81,-13],[-25,131]],[[1279,135],[70,63],
+[48,-111],[-111,0],[-7,48]],[[1515,32],[56,64],[45,-96],[-101,32]]],
+"transform":{"scale":[0.00021779806276887682,0.00021714651291590233],"translate":[-9.164520206986786,37.931995585496225]},
+"objects":{"DrilldownChrolepth_Region":{"type":"GeometryCollection","geometries":
+[{"arcs":[[0]],"type":"MultiPolygon","properties":{"id":1,"Nome":"Miami"}},
+{"arcs":[[1]],"type":"MultiPolygon","properties":{"id":2,"Nome":"Hollywood"}},
+{"arcs":[[2]],"type":"MultiPolygon","properties":{"id":3,"Nome":"Fort Pierce"}},
+{"arcs":[[3]],"type":"MultiPolygon","properties":{"id":4,"Nome":"Fort Myers"}},{"arcs":[[4]],"type":"MultiPolygon","properties":{"id":5,"Nome":"Sarasota"}},
+{"arcs":[[5]],"type":"MultiPolygon","properties":{"id":6,"Nome":"Jacksonville"}},{"arcs":[[6]],"type":"MultiPolygon","properties":{"id":7,"Nome":"Gainesville"}},
+{"arcs":[[7]],"type":"MultiPolygon","properties":{"id":8,"Nome":"Orlando"}}]}}}
