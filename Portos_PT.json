@@ -1,0 +1,1 @@
+{"type":"Topology","arcs":[[[0,17],[13,128],[100,5],[37,-61],[-44,-79],[-62,-10],[-44,17]]],"transform":{"scale":[0.0036181076232536333,0.004058572899128024],"translate":[-9.48218538130835,38.65782038174653]},"objects":{"Portos_PT":{"type":"GeometryCollection","geometries":[{"arcs":[[0]],"type":"Polygon","properties":{"id":2,"Nome":"Lisbon"}}]}}}
